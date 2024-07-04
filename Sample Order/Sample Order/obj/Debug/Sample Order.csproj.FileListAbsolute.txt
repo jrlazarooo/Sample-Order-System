@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\bin\Debug\Sample Order.exe.config
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\bin\Debug\Sample Order.exe
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\bin\Debug\Sample Order.pdb
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\obj\Debug\Sample Order.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\obj\Debug\Sample_Order.Form1.resources
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\obj\Debug\Sample_Order.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\obj\Debug\Sample Order.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\obj\Debug\Sample Order.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\obj\Debug\Sample Order.exe
+C:\Users\ASUS\OneDrive\Desktop\Junior's [USL]\2nd Year [Short Term Semester]\169 [IPAT 1013] Integrative Programming and Technologies 1\Sample Order\Sample Order\obj\Debug\Sample Order.pdb
